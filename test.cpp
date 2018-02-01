@@ -1,3 +1,5 @@
+//Chuong trinh kiem tra so nguyen to cua ToTo
+//==============================================================================
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -29,3 +31,4 @@ bool songuyento(int x)
 		return true;
 			
 }
+//==============================================================================
